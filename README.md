@@ -47,4 +47,5 @@ Note that the default parameters and model types are used in the current command
 ---
 ## About Deep Principle
 This project is part of the open-source work at [Deep Principle](https://www.deepprinciple.com), an AI for Materials company advancing scientific discovery.
+
 [Mira — AI Scientist Platform](https://agentmira.io) is built by Deep Principle for scientific research and R&D workflows.
