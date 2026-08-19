@@ -43,3 +43,8 @@ Note that the default parameters and model types are used in the current command
 1. [Transition1x](https://gitlab.com/matschreiner/Transition1x)
 2. [RGD1](https://figshare.com/articles/dataset/model_reaction_database/21066901)
 3. [Berkholz-15](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.23910)
+
+---
+## About Deep Principle
+This project is part of the open-source work at [Deep Principle](https://www.deepprinciple.com), an AI for Materials company advancing scientific discovery.
+[Mira — AI Scientist Platform](https://agentmira.io) is built by Deep Principle for scientific research and R&D workflows.
